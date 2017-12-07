@@ -2,5 +2,5 @@
 
 echo "toto"
 git remote add clerverapps
-htps://$CLEVER_TOKEN:$CLEVER_SECRET@push.clever-cloud.com/formation_nodejs.git
+htps://$CLEVER_TOKEN:$CLEVER_SECRET@push-par-clevercloud-customers.services.clever-cloud.com/app_7f9c1411-545d-4c3f-8366-47b95bf0f87f.git
 git --verbose --force pusg ckervapps master
