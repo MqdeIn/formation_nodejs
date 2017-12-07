@@ -5,4 +5,4 @@ node_js:
 before_install:
   - npm install -g mocha
 after_script:
-  - push.sh
+  - .push.sh
