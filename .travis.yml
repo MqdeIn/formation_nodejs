@@ -4,5 +4,5 @@ node_js:
   - "6"
 before_install:
   - npm install -g mocha
-after_sucess:
-  - travis/zazaepush.sh
+after_script:
+  - push.sh
